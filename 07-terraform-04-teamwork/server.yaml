@@ -1,0 +1,4 @@
+gh-user: '****'
+gh-token: '****'
+repo-allowlist: "github.com/okey-stack/07-terraform-04-teamwork/"
+allowed_overrides: [apply_requirements, workflow, delete_source_branch_on_merge]
